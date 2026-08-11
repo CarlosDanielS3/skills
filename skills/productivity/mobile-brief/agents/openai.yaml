@@ -1,0 +1,3 @@
+interface:
+  display_name: "Mobile Brief"
+  short_description: "Phone-sized replies: a summary, then tappable options"
